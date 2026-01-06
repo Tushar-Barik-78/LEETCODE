@@ -60,6 +60,7 @@
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Stack
@@ -74,11 +75,13 @@
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [2460-apply-operations-to-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
