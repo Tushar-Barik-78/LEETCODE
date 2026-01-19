@@ -41,6 +41,7 @@
 | [0001-two-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0290-word-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [2295-replace-elements-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2295-replace-elements-in-an-array) |
 | [2325-decode-the-message](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2325-decode-the-message) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0290-word-pattern](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0290-word-pattern) |
 | [1544-make-the-string-great](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1544-make-the-string-great) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2325-decode-the-message](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2325-decode-the-message) |
