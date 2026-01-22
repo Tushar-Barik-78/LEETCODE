@@ -72,6 +72,7 @@
 | [0066-plus-one](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
+| [0704-binary-search](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1207-unique-number-of-occurrences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
