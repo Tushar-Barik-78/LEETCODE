@@ -8,6 +8,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -16,6 +17,7 @@
 | [0101-symmetric-tree](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -33,6 +35,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Hash Table
@@ -85,6 +88,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [1544-make-the-string-great](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1544-make-the-string-great) |
 | [3174-clear-digits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3174-clear-digits) |
 ## Matrix
