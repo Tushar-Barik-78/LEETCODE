@@ -87,6 +87,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2295-replace-elements-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2295-replace-elements-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -112,6 +113,7 @@
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2295-replace-elements-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2295-replace-elements-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [3174-clear-digits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3174-clear-digits) |
@@ -122,6 +124,7 @@
 | [0905-sort-array-by-parity](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3794-reverse-string-prefix](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3794-reverse-string-prefix) |
