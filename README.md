@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -121,6 +122,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
