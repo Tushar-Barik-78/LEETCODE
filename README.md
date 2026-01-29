@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
@@ -120,6 +121,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
@@ -131,6 +133,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0905-sort-array-by-parity) |
