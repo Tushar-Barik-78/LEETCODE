@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -127,6 +128,7 @@
 | [0011-container-with-most-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0905-sort-array-by-parity) |
