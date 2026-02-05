@@ -10,6 +10,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -39,6 +40,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Hash Table
@@ -174,6 +176,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0704-binary-search) |
 ## Interactive
@@ -192,4 +195,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
