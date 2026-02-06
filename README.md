@@ -51,6 +51,7 @@
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0290-word-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2295-replace-elements-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2295-replace-elements-in-an-array) |
 | [2325-decode-the-message](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2325-decode-the-message) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -63,6 +64,7 @@
 | [0067-add-binary](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0067-add-binary) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -95,6 +97,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+| [1512-number-of-good-pairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -173,6 +176,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
