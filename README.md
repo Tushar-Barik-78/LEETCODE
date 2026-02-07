@@ -52,6 +52,7 @@
 | [0290-word-pattern](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0290-word-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2295-replace-elements-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2295-replace-elements-in-an-array) |
 | [2325-decode-the-message](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2325-decode-the-message) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -80,6 +81,7 @@
 | [1544-make-the-string-great](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1544-make-the-string-great) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1768-merge-strings-alternately](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2325-decode-the-message](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2325-decode-the-message) |
 | [3174-clear-digits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3794-reverse-string-prefix) |
