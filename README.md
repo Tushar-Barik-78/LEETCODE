@@ -100,6 +100,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -209,4 +210,9 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
