@@ -97,6 +97,7 @@
 | [0704-binary-search](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1512-number-of-good-pairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -165,6 +166,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Geometry
 |  |
@@ -185,6 +187,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive
 |  |
 | ------- |
@@ -202,4 +205,8 @@
 | ------- |
 | [0067-add-binary](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
