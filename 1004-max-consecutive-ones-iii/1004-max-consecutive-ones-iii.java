@@ -5,22 +5,22 @@ class Solution {
         int j = 0;
         int max = 0;
         int zc =0 ;
-        while (j<n){
+
+        while(j < n){
             if(nums[j] == 0){
                 zc++;
             }
-            if(zc > k){
-                max = Math.max(max,(j-i));
-                while(zc > k){
-                    if(nums[i]==0) zc--;
-                    i++;
-                }
+
+            while(zc > k){
+                if(nums[i] == 0) zc--;
+                i++;
             }
 
+            if(zc <= k){
+                max = Math.max(max, (j-i+1));
+            }
             j++;
         }
-        max = Math.max(max,j-i);
-
-        return (max == 0 && k!=0) ? n : max;
+        return max;
     }
 }
