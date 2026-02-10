@@ -179,6 +179,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
 |  |
