@@ -92,6 +92,7 @@
 | [0001-two-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
@@ -189,6 +190,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0275-h-index-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0275-h-index-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
