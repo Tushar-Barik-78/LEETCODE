@@ -193,12 +193,14 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0275-h-index-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 ## Enumeration
 |  |
