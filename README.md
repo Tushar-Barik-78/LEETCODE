@@ -79,6 +79,7 @@
 | [0290-word-pattern](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1544-make-the-string-great) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1768-merge-strings-alternately](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1768-merge-strings-alternately) |
@@ -123,6 +124,7 @@
 | [0020-valid-parentheses](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1544-make-the-string-great) |
 | [3174-clear-digits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3174-clear-digits) |
 ## Matrix
