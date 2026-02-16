@@ -174,6 +174,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Prefix Sum
@@ -234,4 +235,8 @@
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
