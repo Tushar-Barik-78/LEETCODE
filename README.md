@@ -48,6 +48,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0290-word-pattern) |
@@ -98,6 +99,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
 | [0275-h-index-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0275-h-index-ii) |
@@ -132,6 +134,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3033-modify-the-matrix](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3033-modify-the-matrix) |
 ## Simulation
