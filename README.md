@@ -105,6 +105,7 @@
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
 | [0275-h-index-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -187,6 +188,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Geometry
