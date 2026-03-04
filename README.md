@@ -100,6 +100,7 @@
 | [0001-two-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0066-plus-one) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0141-linked-list-cycle) |
