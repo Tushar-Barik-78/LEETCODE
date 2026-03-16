@@ -106,6 +106,7 @@
 | [0031-next-permutation](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0075-sort-colors) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -165,6 +167,7 @@
 | [0011-container-with-most-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0125-valid-palindrome) |
@@ -260,6 +263,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
@@ -269,4 +273,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
