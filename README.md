@@ -115,6 +115,7 @@
 | [0075-sort-colors](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0724-find-pivot-index) |
@@ -195,6 +196,7 @@
 | [0075-sort-colors](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -222,6 +224,7 @@
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -284,4 +287,12 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0113-path-sum-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
