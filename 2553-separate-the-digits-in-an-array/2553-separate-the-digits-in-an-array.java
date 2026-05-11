@@ -1,19 +1,20 @@
 class Solution {
   
     public int[] separateDigits(int[] nums) {
-         List<Integer> ans = new ArrayList<>();
-        for (int i = nums.length - 1; i >= 0; i--) {
-            int val = nums[i];
-            while (val > 0) {
-                ans.add(val % 10);
-                val /= 10;
+          ArrayList<Integer> list = new ArrayList<>();
+        for(int n:nums){
+            String str = String.valueOf(n);
+            for(int i=0;i<str.length();i++){
+                list.add(str.charAt(i)-'0');
             }
         }
-        Collections.reverse(ans);
-        int[] res = new int[ans.size()];
-        for (int i = 0; i < ans.size(); i++) {
-            res[i] = ans.get(i);
+
+        int [] ans = new int[list.size()];
+        int k = 0;
+        for(int n:list){
+            ans[k++] = n;
         }
-        return res;
+
+        return ans;
     }
 }
