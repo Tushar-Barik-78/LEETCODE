@@ -116,6 +116,7 @@
 | [0088-merge-sorted-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0704-binary-search) |
@@ -274,6 +275,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0213-house-robber-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
