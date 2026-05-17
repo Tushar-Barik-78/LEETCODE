@@ -73,6 +73,7 @@
 | [0066-plus-one](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
+| [1137-n-th-tribonacci-number](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -276,6 +277,7 @@
 | [0042-trapping-rain-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0213-house-robber-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
@@ -301,4 +303,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
