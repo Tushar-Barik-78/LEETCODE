@@ -74,6 +74,7 @@
 | [0012-integer-to-roman](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [1137-n-th-tribonacci-number](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
@@ -313,5 +315,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
