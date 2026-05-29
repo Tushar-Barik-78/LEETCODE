@@ -82,6 +82,7 @@
 | [1512-number-of-good-pairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
@@ -148,6 +149,7 @@
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3033-modify-the-matrix](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3033-modify-the-matrix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Stack
 |  |
