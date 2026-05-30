@@ -138,6 +138,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
