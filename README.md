@@ -107,6 +107,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3838-weighted-word-mapping](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3174-clear-digits) |
+| [3838-weighted-word-mapping](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
