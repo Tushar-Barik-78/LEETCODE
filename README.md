@@ -108,6 +108,7 @@
 | [3174-clear-digits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3838-weighted-word-mapping) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Array
 |  |
 | ------- |
@@ -277,6 +278,7 @@
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Greedy
 |  |
 | ------- |
@@ -288,6 +290,7 @@
 | [0190-reverse-bits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sliding Window
 |  |
 | ------- |
@@ -319,6 +322,7 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0113-path-sum-ii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
