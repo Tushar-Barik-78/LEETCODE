@@ -66,6 +66,7 @@
 | [2325-decode-the-message](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2325-decode-the-message) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
@@ -158,6 +159,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3033-modify-the-matrix](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3033-modify-the-matrix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
