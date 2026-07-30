@@ -84,6 +84,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -107,6 +108,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2325-decode-the-message](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2325-decode-the-message) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3174-clear-digits) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
