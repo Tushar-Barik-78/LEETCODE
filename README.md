@@ -84,6 +84,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -152,6 +153,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -355,4 +357,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
