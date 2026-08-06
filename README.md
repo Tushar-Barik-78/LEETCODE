@@ -88,6 +88,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -292,6 +293,7 @@
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Greedy
 |  |
