@@ -74,6 +74,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0067-add-binary) |
@@ -327,6 +328,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Trie
 |  |
