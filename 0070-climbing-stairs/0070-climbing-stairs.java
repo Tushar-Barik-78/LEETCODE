@@ -4,7 +4,6 @@ class Solution {
         if(n == 1) return 1;
         if(n == 2) return 2;
         if(dp[n] != 0) return dp[n];
-
         return dp[n] = climb(n-1,dp)+climb(n-2,dp);
     }
     public int climbStairs(int n) {
