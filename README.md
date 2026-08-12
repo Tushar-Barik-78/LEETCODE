@@ -370,4 +370,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
