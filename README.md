@@ -68,6 +68,7 @@
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
@@ -114,6 +115,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2325-decode-the-message](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2325-decode-the-message) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3174-clear-digits) |
@@ -319,6 +321,7 @@
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
