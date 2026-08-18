@@ -72,6 +72,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3731-find-missing-elements](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -249,6 +251,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Tushar-Barik-78/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
